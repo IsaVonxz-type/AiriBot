@@ -20,6 +20,7 @@ lerna-debug.log*
 
 # Anything .local, especially for .env.local
 *.local
+**/.env
 # e.g. Claude Code settings.local.json
 *.local.*
 
